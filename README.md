@@ -1,1 +1,1 @@
-my first readme got me thinking a lot.
+my first readme
